@@ -28,7 +28,7 @@ The package is based on **[GraphGNSSLib](https://github.com/weisongwen/GraphGNSS
 <center> Software flowchart of GraphGNSSLib_LEO, more information please refer to mannual and paper.</center>
 
 ## 0. Suggestion
-If you are not familiar with ROS, we highly recommend using our docker container to enjoy GraphGNSSLib_LEO. For the details, please go to the branch docker [4. Docker Support](https://github.com/Gao-tech1/GraphGNSSLib_LEO_V1.2?tab=readme-ov-file#4-docker-support)
+If you are not familiar with ROS, we highly recommend using our docker container to enjoy GraphGNSSLib_LEO. For the details, please go to the branch docker [4. Docker Support](https://github.com/PolyU-TASLAB/GraphGNSSLib_LEO?tab=readme-ov-file#4-docker-support)
 
 
 ## 1. Prerequisites
@@ -38,7 +38,7 @@ Ubuntu 64-bit 18.04, ROS Melodic. [ROS Installation](http://wiki.ros.org/ROS/Ins
 ### 1.2. **Ceres Solver**
 Follow the following instructions to install Ceres-solver instead of using the latest version of Ceres-solver.
 
-**Step 1**: Download the [Ceres-solver](https://github.com/Gao-tech1/GraphGNSSLib_LEO/blob/main/support_files) which is compatible with GraphGNSSLib_LEO. 
+**Step 1**: Download the [Ceres-solver](https://github.com/PolyU-TASLAB/GraphGNSSLib_LEO/blob/main/support_files) which is compatible with GraphGNSSLib_LEO. 
 
 **Step 2**: make and install
 ```bash
@@ -68,7 +68,7 @@ Clone the repository and catkin_make:
 mkdir GraphGNSSLib_LEO/src
 cd ~/GraphGNSSLib_LEO/src
 mkdir result
-git clone https://github.com/Gao-tech1/GraphGNSSLib_LEO.git
+git clone https://github.com/PolyU-TASLAB/GraphGNSSLib_LEO.git
 cd ../
 # if you fail in the last catkin_make, please source and catkin_make again
 catkin_make
