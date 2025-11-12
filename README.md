@@ -15,9 +15,9 @@ The package is based on **[GraphGNSSLib](https://github.com/weisongwen/GraphGNSS
 **Authors**: [Yixin Gao](https://polyu-taslab.github.io/members/gao_yixin.html),[Weisong Wen](https://www.polyu.edu.hk/aae/people/academic-staff/dr-wen-weisong/), from the [Trustworthy AI and Autonomous Systems (TAS) Laboratory]([https://polyu-taslab.github.io/]), The Hong Kong Polytechnic University. 
 
 **Related Papers:** 
+  - Gao, Y., Wen, W., Liu, X., Huang F., Hu, J., & Su, D.(2025, Nov.) [Enhancing LEO-GNSS Positioning in Urban Canyons: A Factor Graph Optimization Approach with StarLink Simulaieeetions](https://its.papercept.net/conferences/scripts/abstract.pl?ConfID=91&Number=464). In 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC). IEEE
+
   - Wen, W., & Hsu, L. T. (2021, May). [Towards robust GNSS positioning and Real-time kinematic using factor graph optimization](https://ieeexplore.ieee.org/abstract/document/9562037). In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 5884-5890). IEEE. 
-  - Wen, W., Zhang, G., & Hsu, L. T. (2021). [GNSS outlier mitigation via graduated non-convexity factor graph optimization](https://ieeexplore.ieee.org/abstract/document/9627801). IEEE Transactions on Vehicular Technology, 71(1), 297-310.
-  - Zhong, Y., Wen, W., Ng, H. F., Bai, X., & Hsu, L. T. (2022, September). [Real-time Factor Graph Optimization Aided by Graduated Non-convexity Based Outlier Mitigation for Smartphone Decimeter Challenge](https://www.ion.org/publications/abstract.cfm?articleID=18382). In Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022) (pp. 2339-2348).
 
 *if you use GraphGNSSLib_LEO for your academic research, please cite our related [papers](https://ieeexplore.ieee.org/abstract/document/9562037)*
 
